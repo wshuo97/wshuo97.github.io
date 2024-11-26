@@ -25,5 +25,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 I'm a Ph.D student at the University of Padua, supervised by Prof. Mauro Conti. I'm currently working on computer security and privacy in AI Applications.
-
 Before becoming a Ph.D. student, I received my Master’s (2022) degree at the East China Normal University, Shanghai, China, and my Bachelor’s (2019) at Shandong University of Science and Technology, Qingdao, China.
