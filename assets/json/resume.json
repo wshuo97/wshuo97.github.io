@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shuo WANG",
+    "label": "Ph.D Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "shuo.wang@studenti.unipd.it",
+    "phone": "(39) 3887885670",
+    "url": "https://wshuo97.github.io/",
+    "summary": "A student studying in Padua, Italy.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",

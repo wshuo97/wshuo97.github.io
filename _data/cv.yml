@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Shuo WANG
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9th April 1997
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
