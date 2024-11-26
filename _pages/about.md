@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 I'm a Ph.D student at the University of Padua, supervised by Prof. Mauro Conti. I'm currently working on computer security and privacy in AI Applications.
 
-Before becoming a Ph.D. student, I received my Master's (2022) degree at the East China Normal University, Shanghai, China, and my Bachelor's (2019) at Shandong University of Science and Technology, Qingdao, China.  
+Before becoming a Ph.D. student, I received my Master's (2022) degree at the East China Normal University, Shanghai, China, and my Bachelor's (2019) at Shandong University of Science and Technology, Qingdao, China.
