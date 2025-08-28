@@ -6,7 +6,7 @@ subtitle: <a href='http://hit.psy.unipd.it/BMCS'>The Brain, Mind & Computer Scie
 
 profile:
   align: right
-  image: profile_photo.jpg
+  image: profile_photo.webp
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 7D4</p><br>
